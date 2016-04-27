@@ -13,5 +13,21 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/10171112472.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/fontbox-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queries-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/tm-extractors-0.4.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
